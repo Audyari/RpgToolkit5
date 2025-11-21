@@ -3,13 +3,13 @@
   "productName": "rpgtoolkit5",
   "version": "1.0.0",
   "description": "2d and 3d rpg maker toolkit",
-  "main": ".vite/build/main.js",
+  "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
-    "lint": "eslint --ext .ts,.tsx ."
+    "lint": "eslint --ext .js,.jsx,.ts,.tsx ."
   },
   "keywords": [],
   "author": {
