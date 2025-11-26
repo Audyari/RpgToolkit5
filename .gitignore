@@ -90,3 +90,8 @@ typings/
 
 # Electron-Forge
 out/
+
+# AI Assistant and OpenSpec files
+.agent/
+openspec/
+AGENTS.md
